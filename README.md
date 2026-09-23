@@ -87,5 +87,3 @@ flowchart TD
 
     L --> P[Building Analytics]
     O --> Q[Work Order Tracking]
-
-![Maintenance Work Orders](screenshots/work-orders.png)
