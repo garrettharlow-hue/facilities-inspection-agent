@@ -1,0 +1,5 @@
+building,room,occupancy_status,carpet_condition,furniture_condition,cleanliness,safety_issue,maintenance_required,priority
+Demo Hall,101,Vacant,Good,Good,Clean,None,False,None
+Demo Hall,102,Vacant,Stained,Good,Needs Cleaning,None,True,Low
+Demo Hall,103,Occupied,Damaged,Good,Clean,None,True,Medium
+Demo Hall,104,Vacant,Good,Damaged,Clean,Issue Identified,True,High
