@@ -105,3 +105,20 @@ flowchart TD
 
     L --> P[Building Analytics]
     O --> Q[Work Order Tracking]
+
+## Development Process
+
+The repository includes a separate development notebook documenting the iterative construction of the agent.
+
+The development notebook contains:
+- Early LLM extraction experiments
+- Prompt-engineering iterations
+- Structured-output testing
+- Development and holdout evaluations
+- Error analysis
+- Safety-classification refinement
+- Progressive addition of follow-up workflows, human review, persistent storage, analytics, and maintenance work orders
+
+For the clean, runnable version of the application, see `Facilities_Inspection_Agent_Final.ipynb`.
+
+The development notebook is available in the `development/` folder for readers interested in the experimentation and design process.
