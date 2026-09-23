@@ -88,20 +88,4 @@ flowchart TD
     L --> P[Building Analytics]
     O --> Q[Work Order Tracking]
 
-## Screenshots
-
-### Inspection Workflow
-
-![Inspection Workflow](screenshots/inspection-workflow.png)
-
-### Building Analytics
-
-![Building Analytics](screenshots/building-dashboard.png)
-
-### Inspection History
-
-![Inspection History](screenshots/inspection-history.png)
-
-### Maintenance Work Orders
-
 ![Maintenance Work Orders](screenshots/work-orders.png)
