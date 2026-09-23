@@ -4,6 +4,12 @@ An LLM-powered facilities inspection workflow designed to reduce repetitive docu
 
 The application converts natural-language inspection observations into standardized structured records, identifies missing information, supports follow-up interactions, allows human review and correction, generates maintenance work orders, and produces building-level analytics.
 
+## Live Demo
+
+[Try the Facilities Inspection Agent](https://facilities-inspection-agent.onrender.com)
+
+> **Portfolio demo:** Please use synthetic or test information only. Do not enter sensitive or real operational data.
+
 ## Why I Built This
 
 This project was inspired by my experience working in facilities services, where inspection documentation can involve repetitive manual data entry and inconsistent descriptions of similar room conditions.
