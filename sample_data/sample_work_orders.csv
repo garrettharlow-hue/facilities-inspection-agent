@@ -1,0 +1,4 @@
+work_order_id,building,room,category,priority,status
+WO-DEMO-102,Demo Hall,102,"Carpet, Cleaning",Low,Open
+WO-DEMO-103,Demo Hall,103,Carpet,Medium,In Progress
+WO-DEMO-104,Demo Hall,104,"Furniture, Safety",High,Completed
