@@ -105,6 +105,7 @@ flowchart TD
 
     L --> P[Building Analytics]
     O --> Q[Work Order Tracking]
+```
 
 ## Development Process
 
