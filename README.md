@@ -61,6 +61,24 @@ The inspector then reviews the structured record, makes any necessary correction
 
 If maintenance is required, the system generates a corresponding work order.
 
+## Screenshots
+
+### Inspection Workflow
+
+![Inspection Workflow](screenshots/inspection-workflow.png)
+
+### Building Analytics Dashboard
+
+![Building Analytics Dashboard](screenshots/building-dashboard.png)
+
+### Inspection History
+
+![Inspection History](screenshots/inspection-history.png)
+
+### Maintenance Work Orders
+
+![Maintenance Work Orders](screenshots/work-orders.png)
+
 ## System Architecture
 
 ```mermaid
