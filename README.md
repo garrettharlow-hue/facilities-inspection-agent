@@ -129,3 +129,31 @@ The development notebook contains:
 For the clean, runnable version of the application, see `Facilities_Inspection_Agent_Final.ipynb`.
 
 The development notebook is available in the `development/` folder for readers interested in the experimentation and design process.
+
+## Future Improvements
+
+The current application is designed as a portfolio prototype, but several improvements could make it more scalable, reliable, and useful in a real facilities-management environment.
+
+Potential future enhancements include:
+
+- **Production database integration:** Replace CSV-based storage with a persistent relational database such as PostgreSQL for more reliable inspection and work-order management.
+
+- **User authentication and role-based access:** Add secure login functionality and different permission levels for inspectors, supervisors, and maintenance staff.
+
+- **Integration with existing facilities systems:** Connect the agent to maintenance-management platforms or enterprise tools so approved work orders can automatically enter an organization's existing workflow.
+
+- **Photo-based inspection support:** Allow inspectors to upload room or damage photos and use multimodal AI to supplement written observations.
+
+- **Voice-based inspection entry:** Let inspectors dictate observations while walking through a building rather than typing notes manually.
+
+- **More advanced work-order management:** Add technician assignment, due dates, escalation rules, comments, attachments, and maintenance completion notes.
+
+- **Configurable maintenance rules:** Allow organizations to customize priority levels and maintenance thresholds based on their own policies rather than relying on fixed rules in the application.
+
+- **Expanded analytics:** Add trends over time, recurring-problem detection, building comparisons, maintenance response times, and downloadable reports.
+
+- **Larger-scale model evaluation:** Test the extraction workflow on a larger and more diverse dataset of inspection notes to better measure reliability and identify additional failure cases.
+
+- **Audit and monitoring tools:** Maintain detailed logs of AI outputs, human corrections, prompt versions, and system decisions to support transparency and quality control.
+
+- **Enterprise AI integration:** Explore deployment through platforms such as Microsoft 365 Copilot, Azure AI services, or other enterprise AI environments for organizations with established security and governance requirements.
