@@ -12,7 +12,7 @@ The application converts natural-language inspection observations into standardi
 
 ## Why I Built This
 
-This project was inspired by my experience working in facilities services, where inspection documentation can involve repetitive manual data entry and inconsistent descriptions of similar room conditions.
+This project was inspired by my experience working in facilities services, where I quickly realized that inspection documentation can involve repetitive manual data entry and inconsistent descriptions of similar room conditions.
 
 The goal was to explore how an LLM could assist with documentation while keeping operational decisions, validation, and final approval under deterministic rules and human control.
 
